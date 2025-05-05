@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\bin\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.exe
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\bin\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.deps.json
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\bin\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.runtimeconfig.json
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\bin\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.dll
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\bin\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.pdb
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.dll
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\refint\sistema-de-gerenciamento-de-funcionarios.dll
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.pdb
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\sistema-de-gerenciamento-de-funcionarios.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Desktop\Sistema de Gerenciamento de Funcionários\sistema-de-gerenciamento-de-funcionarios\obj\Debug\net9.0\ref\sistema-de-gerenciamento-de-funcionarios.dll
