@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Desktop\\Sistema de Gerenciamento de Funcionários\\sistema-de-gerenciamento-de-funcionarios\\sistema-de-gerenciamento-de-funcionarios.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\GitHub\\Gerenciador-de-Funcionarios\\Sistema de Gerenciamento de Funcionários\\Gerenciador-de-Funcionarios\\sistema-de-gerenciamento-de-funcionarios.csproj",
       "projectName": "sistema-de-gerenciamento-de-funcionarios",
-      "projectPath": "C:\\Users\\pedro\\OneDrive\\Desktop\\Sistema de Gerenciamento de Funcionários\\sistema-de-gerenciamento-de-funcionarios\\sistema-de-gerenciamento-de-funcionarios.csproj",
+      "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\GitHub\\Gerenciador-de-Funcionarios\\Sistema de Gerenciamento de Funcionários\\Gerenciador-de-Funcionarios\\sistema-de-gerenciamento-de-funcionarios.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\OneDrive\\Desktop\\Sistema de Gerenciamento de Funcionários\\sistema-de-gerenciamento-de-funcionarios\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\GitHub\\Gerenciador-de-Funcionarios\\Sistema de Gerenciamento de Funcionários\\Gerenciador-de-Funcionarios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
